@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d73fc167f22a34aa7edb54c37284ad, type: 3}
+  m_Name: Wave3 Level2
+  m_EditorClassIdentifier: 
+  _waveNumber: 3
+  _templates:
+  - {fileID: 8725997854014378586, guid: 0c6bcc8aef2f740b7aed8069d88828de, type: 3}
+  - {fileID: 3030511670871860871, guid: c9b3d049685bb4dd0ac152227d77a14a, type: 3}
+  - {fileID: 2526898795539001997, guid: 93609480d7c9b024aa7fc2b18abee4a1, type: 3}
+  - {fileID: 3030511670871860871, guid: 2d320e71c2ca14ace8b9056222f2cbc0, type: 3}
+  - {fileID: 8725997854014378586, guid: 0c6bcc8aef2f740b7aed8069d88828de, type: 3}
+  _spawnSize: 5
+  _spawnDelay: 0.3
+  _spawnPositionRange: 4
+  _waveDuration: 12
